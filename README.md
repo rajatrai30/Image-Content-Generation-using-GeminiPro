@@ -2,9 +2,10 @@
 
 ![Image-Model Logo](ImageContent.png)
 
-# This is a project that uses the Gemini Pro API to create a model that can be used to predict the price of a gemstone based on its features. The model is trained using a dataset of gemstones and their prices. The model is then deployed as a web application using Flask. The web application allows users to input the features of a gemstone and get a price prediction./*!/*!
+## About Repo
+This repository contains the code for generating image content using the GeminiPro API. The GeminiPro API is a powerful tool that can be used to generate images based on the user's input. The code in this repository demonstrates how to use the GeminiPro API to generate images based on a user's input.
 
-# Table of Contents: To be Updated Soon!!!
+## Table of Contents: To be Updated Soon!!!
 1. [Introduction](#introduction)
 2. [Installation](#installation)
 3. [Usage](#usage)
